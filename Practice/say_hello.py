@@ -8,6 +8,6 @@ Print these two lines:
 Hello, [name]!
 Welcome to programming!
 """
-
+name = input("Name:").strip()
 print("Hello, Abhay!")
 print("Welcome to programming!")
