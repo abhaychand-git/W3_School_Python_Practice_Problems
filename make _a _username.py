@@ -1,7 +1,7 @@
 """
 Make a Username
 Create a username and initials from a first and last name.
-
+_________________________________________________________________________________________
 Instructions
 Read a first name and a last name from input.
 
