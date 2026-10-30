@@ -13,13 +13,14 @@ Username: [username]
 Initials: [first letter of first name][first letter of last name] (in uppercase)
 """
 
-
+#Variable
 first_name = input().strip().lower()
 last_name = input().strip().lower()
 
-
+#username
 username = first_name + last_name
 
+#initials
 initials = first_name[0].capitalize() + last_name[0].capitalize()
 
 #print the output
