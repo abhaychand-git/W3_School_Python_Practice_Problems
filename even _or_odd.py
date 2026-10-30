@@ -9,7 +9,11 @@ Print Even if the number is divisible by 2.
 
 Print Odd if it is not.
 """
+
+#Data input
 num = int(input("Enter the number:"))
+
+#number check and print output
 if num % 2 == 0:
     print("Even")
 
