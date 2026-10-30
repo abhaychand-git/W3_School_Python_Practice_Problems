@@ -1,9 +1,8 @@
 """
 Even or Odd
-
 Check if a number is even or odd.
-
-Instructions
+________________________________
+Instructions:
 Read a number from input.
 
 Print Even if the number is divisible by 2.
