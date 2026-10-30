@@ -22,6 +22,6 @@ username = first_name + last_name
 
 initials = first_name[0].capitalize() + last_name[0].capitalize()
 
-
+#print the output
 print("Username:",username)
 print("Initials:",initials)
