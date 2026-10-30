@@ -1,5 +1,6 @@
 """
 Even or Odd
+
 Check if a number is even or odd.
 
 Instructions
