@@ -2,4 +2,6 @@
 W3 School Python Practice Problems
 _________________________________________________________________________________
 
-This repo includes the solutions of problems of W3 School Python Practice Problem
+This repo includes the solutions of problems of W3 School Python Practice Problem 
+The structure followed is as follows:
+S
