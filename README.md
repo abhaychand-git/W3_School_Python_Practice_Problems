@@ -6,3 +6,4 @@ This repo includes the solutions of problems of W3 School Python Practice Proble
 The structure followed is as follows:
 S
 1,
+2.
