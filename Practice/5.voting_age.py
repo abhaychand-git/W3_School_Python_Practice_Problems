@@ -1,16 +1,7 @@
 """
 Voting Age:
 Determine if a person is old enough to vote.
-
-Instructions:
-Read a name and an age from input.
-
-If the person is 18 or older, print:
-
-[name] can vote
-If the person is younger than 18, print:
-
-[name] cannot vote
+____________________________________________
 
 """
 
